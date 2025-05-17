@@ -72,7 +72,7 @@ for char, code in huffman_codes.items():
 ```
 ## Output:
 ### Print the characters and its huffmancode
-![image](https://github.com/user-attachments/assets/29c536c4-c7e2-4f02-9fe3-e8e1fd0d0584)
+![WhatsApp Image 2025-05-17 at 10 13 01_d63096ec](https://github.com/user-attachments/assets/33c392be-c210-4ff2-86fa-7d21adedb5bc)
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
